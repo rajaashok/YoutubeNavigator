@@ -41,10 +41,6 @@ For more information,
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/_xpUlCTfYao/0.jpg)](http://www.youtube.com/watch?v=_xpUlCTfYao "YouTubeNavigator")
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=_xpUlCTfYao"><img src="https://www.youtube.com/watch?v=_xpUlCTfYao" alt="YouTubeNavigator"></a>
-</div>
-
 
 ### Execution
 Clone the project and create a virtual environment from Python Virtual Environment package 
