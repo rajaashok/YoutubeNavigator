@@ -1,0 +1,6 @@
+scipy
+opencv-python
+cmake
+dlib
+imutils
+enum34
