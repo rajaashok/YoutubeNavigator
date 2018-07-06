@@ -34,10 +34,12 @@ Measure the centroid of the eyes and measure the angle between the points to cal
 <img src="https://github.com/rajaashok/YoutubeNavigator/blob/master/alignment.png">
 
 For more information,
-	[Face ALignment](https://www.pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/)
-	[EAR](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
+1) [Face ALignment](https://www.pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/)
+2) [EAR](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
 
 ### Working Example
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/_xpUlCTfYao/0.jpg)](http://www.youtube.com/watch?v=_xpUlCTfYao "YouTubeNavigator")
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=_xpUlCTfYao"><img src="https://www.youtube.com/watch?v=_xpUlCTfYao" alt="YouTubeNavigator"></a>
